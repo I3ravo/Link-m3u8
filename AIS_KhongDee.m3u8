@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=19487aba2706797a62e3a537c576d82b&chunkHttps=true&tmid=B0015&tpbk=WMHziSjjX5jiajM1&rrt=1741530770&tmod=rfk&rsid=44db4f45-0bcf-4595-814e-a19728a59272&tuid=f968e719ee&cdn=redfox-https&tdid=ee917e869f26a847b20d7d860500d5e1&origin=anevia&tfa=f0-fc&tttl=1741617170
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=19487aba2706797a62e3a537c576d82b&chunkHttps=true&tmid=B0015&tpbk=WMHziSjjX5jiajM1&rrt=1741530770&tmod=rfk&rsid=44db4f45-0bcf-4595-814e-a19728a59272&tuid=f968e719ee&cdn=redfox-https&tdid=ee917e869f26a847b20d7d860500d5e1&origin=anevia&tfa=f0-fc&tttl=1741617170&extension=m3u8
 
 
 
